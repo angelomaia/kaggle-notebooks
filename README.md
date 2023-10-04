@@ -14,6 +14,4 @@ To organize and store all my Kaggle notebooks in one place for easy access and s
 - [Notebook 3](link-to-notebook-3): Description of notebook 3
 -->
 
-## Contact
-
-Feel free to contact me with any questions or suggestions!
+```Feel free to contact me with any questions or suggestions!```
